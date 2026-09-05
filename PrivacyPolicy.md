@@ -1,12 +1,12 @@
 # Privacy Policy for Cheetah Breedah
 
-**Last updated:** September 4, 2026
+**Last updated:** September 5, 2026
 
 Soup Fork Studios LLC ("we," "us," or "our") operates Cheetah Breedah (the "App"). This page explains what data the App does and does not collect.
 
 ## Summary
 
-Cheetah Breedah does not collect, store, or transmit any personal data, and does not connect to the internet at all.
+Cheetah Breedah saves your game progress locally on your own device so you don't lose it between sessions. That save file never leaves your device, we don't receive it, see it, or have any access to it. Beyond that local save, the App does not collect, transmit, or have access to any personal data, and does not connect to the internet at all.
 
 ## Information We Do Not Collect
 
@@ -20,11 +20,11 @@ The App does not collect, request, or have access to:
 
 ## Data Storage
 
-All gameplay takes place entirely on your device, in memory, for the current session only. The App does not currently save or persist gameplay progress between sessions, and does not write any data to local storage, cloud storage, or any external server.
+The App saves your in-game progress (your facility, your animals, and related game state) to a save file stored locally on your own device, so you can pick up where you left off. This save data is purely gameplay information, it does not include your name, contact details, or any other personal information, and it is never transmitted anywhere. We have no access to it, no copy of it, and no way to see it. Uninstalling the App removes this save data along with everything else.
 
 ## Network Access
 
-The App does not make any network connections. It functions entirely offline and does not send or receive any data over the internet.
+The App does not make any network connections. It functions entirely offline and does not send or receive any data over the internet, including the save data described above, which stays on your device only.
 
 ## Third-Party Services
 
@@ -32,11 +32,11 @@ The App does not use any third-party analytics, advertising, or tracking service
 
 ## Children's Privacy
 
-Because the App collects no data of any kind from any user, this applies equally to users of all ages, including children.
+Because the App collects no personal data of any kind from any user, and stores only local, on-device gameplay progress, this applies equally to users of all ages, including children.
 
 ## Changes to This Policy
 
-If a future update to the App adds any data collection, storage, or network functionality (for example, saving progress locally or adding online features), this policy will be updated to accurately reflect that before the update is released, and the "Last updated" date above will change accordingly.
+If a future update to the App adds any new kind of data collection or network functionality, this policy will be updated to accurately reflect that before the update is released, and the "Last updated" date above will change accordingly.
 
 ## Contact Us
 
